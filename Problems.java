@@ -1,11 +1,8 @@
 /**
- * Suggest you practice writing ALL methods 
  * 
  * String library: 
  * https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html
- * 
- * 
- * @author CMSC131 instructors
+ *
  *
  */
 public class Problems {
